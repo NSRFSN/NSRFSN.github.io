@@ -1,4 +1,4 @@
 # 分布式事务专题
 
-#### 一、本地事务
+{% include list.liquid all=true %}
 
