@@ -1,1 +1,9 @@
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
 remote_theme: rundocs/jekyll-rtd-theme
