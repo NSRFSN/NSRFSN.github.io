@@ -38,7 +38,7 @@ gitment:
   owner: NSRFSN
   repo: NSRFSN.github.io
   client_id: 8b90560b70334d45c7c5
-  client_secret: bbfa882e493ef89b610b2a694ae339c5a58e5c67
+  client_secret: 
 
 url: "https://nsrfsn.github.io"
 imgrepo: "https://nsrfsn.github.io/static/img"
