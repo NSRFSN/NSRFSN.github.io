@@ -35,9 +35,9 @@ github:
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    repo: NSRFSN.github.io
+    client_id: 8b90560b70334d45c7c5
+    client_secret: bbfa882e493ef89b610b2a694ae339c5a58e5c67
 
 url: "https://nsrfsn.github.io"
 imgrepo: "https://nsrfsn.github.io/static/img"
